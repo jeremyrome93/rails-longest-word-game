@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+.card {
+  padding: 40px;
+  margin: auto;
+  background-color: rgb(33, 89, 162);
+}
+
+ .flex-container {
+  display: flex;
+  color: white;
+  font-style: bolder;
+  justify-content: space-between;
+ }
+
+ .form {
+  padding-top: 40px;
+  padding-bottom: 20px;
+ }
